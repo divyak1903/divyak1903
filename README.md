@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Divya Kannegnti</h1>
+<h1 align="center">Hi 👋, I'm Sri Divya Kanneganti</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad, INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyak1903&label=Profile%20views&color=0e75b6&style=flat" alt="divyak1903" /> </p>
